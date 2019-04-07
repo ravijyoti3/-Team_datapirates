@@ -9,7 +9,7 @@ $query=mysql_query("SELECT * from hackathon ");
 
 
  ?>
-
+// HTML code start here
 <!DOCTYPE html>
 <html >
   <head>
@@ -37,3 +37,4 @@ $query=mysql_query("SELECT * from hackathon ");
 <?php } ?>
   </body>
 </html>
+// HTML code end here
